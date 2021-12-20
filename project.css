@@ -109,7 +109,7 @@ body{
 /* get in touch */
 .main{
     width: 700px;
-    height: 615px;
+    height: 750px;
     margin: auto;
     background-color: rgb(146, 201, 146);
     margin-top: 40px;
@@ -150,4 +150,7 @@ body{
 .form-control h2{
     color: black;
     font-weight: bolder;
-}   
+} 
+.form-control textarea{
+    width: 100%;
+}  
